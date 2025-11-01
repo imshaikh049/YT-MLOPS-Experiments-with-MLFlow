@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/654698758597665121/bb4496b6f5714ca2aa8c9d3964fba642/artifacts
+end_time: 1762024528524
+entry_point_name: ''
+experiment_id: '654698758597665121'
+lifecycle_stage: active
+run_id: bb4496b6f5714ca2aa8c9d3964fba642
+run_name: defiant-wasp-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762024508948
+status: 3
+tags: []
+user_id: shaik

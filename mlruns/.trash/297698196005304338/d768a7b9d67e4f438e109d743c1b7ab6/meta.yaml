@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/297698196005304338/d768a7b9d67e4f438e109d743c1b7ab6/artifacts
+deleted_time: 1761983152284
+end_time: 1761243576688
+entry_point_name: ''
+experiment_id: '297698196005304338'
+lifecycle_stage: deleted
+run_id: d768a7b9d67e4f438e109d743c1b7ab6
+run_name: vaunted-fawn-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761243570691
+status: 3
+tags: []
+user_id: shaik

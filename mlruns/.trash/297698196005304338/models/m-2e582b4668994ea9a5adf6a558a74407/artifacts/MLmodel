@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/297698196005304338/models/m-2e582b4668994ea9a5adf6a558a74407/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-2e582b4668994ea9a5adf6a558a74407
+model_size_bytes: 21697
+model_uuid: m-2e582b4668994ea9a5adf6a558a74407
+prompts: null
+run_id: d768a7b9d67e4f438e109d743c1b7ab6
+utc_time_created: '2025-10-23 18:19:31.201411'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/335878603636993909/9f17d965826548c7ae1f280211f545f5/artifacts
+deleted_time: 1762015602007
+end_time: 1762015533663
+entry_point_name: ''
+experiment_id: '335878603636993909'
+lifecycle_stage: deleted
+run_id: 9f17d965826548c7ae1f280211f545f5
+run_name: brawny-hog-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762015533431
+status: 3
+tags: []
+user_id: shaik

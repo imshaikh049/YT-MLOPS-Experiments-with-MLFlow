@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/297698196005304338/5e1ef380630d465da134e87a256f7991/artifacts
+deleted_time: 1761983152284
+end_time: 1759780479666
+entry_point_name: ''
+experiment_id: '297698196005304338'
+lifecycle_stage: deleted
+run_id: 5e1ef380630d465da134e87a256f7991
+run_name: classy-midge-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759780479574
+status: 3
+tags: []
+user_id: shaik

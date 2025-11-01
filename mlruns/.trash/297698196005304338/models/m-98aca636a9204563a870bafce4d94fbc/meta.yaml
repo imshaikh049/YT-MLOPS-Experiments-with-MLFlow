@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/297698196005304338/models/m-98aca636a9204563a870bafce4d94fbc/artifacts
+creation_timestamp: 1761243482106
+experiment_id: '297698196005304338'
+last_updated_timestamp: 1761243497302
+model_id: m-98aca636a9204563a870bafce4d94fbc
+model_type: null
+name: Random-Forest-Model
+source_run_id: 5b474e0071fb4d9e8df0ba9fa686ef25
+status: 2
+status_message: null

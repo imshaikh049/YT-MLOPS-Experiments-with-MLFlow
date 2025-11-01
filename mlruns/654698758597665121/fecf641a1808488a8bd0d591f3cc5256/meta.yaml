@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/654698758597665121/fecf641a1808488a8bd0d591f3cc5256/artifacts
+end_time: 1762021088255
+entry_point_name: ''
+experiment_id: '654698758597665121'
+lifecycle_stage: active
+run_id: fecf641a1808488a8bd0d591f3cc5256
+run_name: delicate-crab-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762021079938
+status: 3
+tags: []
+user_id: shaik

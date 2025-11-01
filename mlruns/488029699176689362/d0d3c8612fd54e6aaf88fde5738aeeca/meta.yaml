@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/488029699176689362/d0d3c8612fd54e6aaf88fde5738aeeca/artifacts
+end_time: 1762020844459
+entry_point_name: ''
+experiment_id: '488029699176689362'
+lifecycle_stage: active
+run_id: d0d3c8612fd54e6aaf88fde5738aeeca
+run_name: mysterious-sow-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762020837589
+status: 3
+tags: []
+user_id: shaik

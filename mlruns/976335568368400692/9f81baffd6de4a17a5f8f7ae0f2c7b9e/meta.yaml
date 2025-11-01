@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/976335568368400692/9f81baffd6de4a17a5f8f7ae0f2c7b9e/artifacts
+end_time: 1762020730757
+entry_point_name: ''
+experiment_id: '976335568368400692'
+lifecycle_stage: active
+run_id: 9f81baffd6de4a17a5f8f7ae0f2c7b9e
+run_name: whimsical-finch-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762020729736
+status: 4
+tags: []
+user_id: shaik

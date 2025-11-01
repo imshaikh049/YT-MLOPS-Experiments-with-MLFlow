@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/976335568368400692/15d7ca5294d3474da4c1014eb40a8073/artifacts
+end_time: 1762016413384
+entry_point_name: ''
+experiment_id: '976335568368400692'
+lifecycle_stage: active
+run_id: 15d7ca5294d3474da4c1014eb40a8073
+run_name: judicious-shrike-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762016394124
+status: 3
+tags: []
+user_id: shaik

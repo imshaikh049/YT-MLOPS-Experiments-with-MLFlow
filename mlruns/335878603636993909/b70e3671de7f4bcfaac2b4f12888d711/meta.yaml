@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/335878603636993909/b70e3671de7f4bcfaac2b4f12888d711/artifacts
+end_time: 1762015611077
+entry_point_name: ''
+experiment_id: '335878603636993909'
+lifecycle_stage: active
+run_id: b70e3671de7f4bcfaac2b4f12888d711
+run_name: salty-snail-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762015610520
+status: 3
+tags: []
+user_id: shaik

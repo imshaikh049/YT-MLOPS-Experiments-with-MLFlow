@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/335878603636993909/88bb22c187d94f6b832b771fa668555f/artifacts
+deleted_time: 1762015602010
+end_time: 1762015533397
+entry_point_name: ''
+experiment_id: '335878603636993909'
+lifecycle_stage: deleted
+run_id: 88bb22c187d94f6b832b771fa668555f
+run_name: rambunctious-cow-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762015533023
+status: 3
+tags: []
+user_id: shaik

@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/287102772920764704
+creation_time: 1762013186366
+experiment_id: '287102772920764704'
+last_update_time: 1762015172722
+lifecycle_stage: deleted
+name: YT-MLOPS-Exp4
+tags:
+  mlflow.experimentKind: custom_model_development
