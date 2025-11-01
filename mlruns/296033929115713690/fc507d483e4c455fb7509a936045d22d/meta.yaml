@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/296033929115713690/fc507d483e4c455fb7509a936045d22d/artifacts
+end_time: 1762026061472
+entry_point_name: ''
+experiment_id: '296033929115713690'
+lifecycle_stage: active
+run_id: fc507d483e4c455fb7509a936045d22d
+run_name: rebellious-kite-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026061375
+status: 3
+tags: []
+user_id: shaik

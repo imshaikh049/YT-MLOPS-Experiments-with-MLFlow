@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/296033929115713690/4709ead595934cd98c2efcdc7a29c539/artifacts
+end_time: 1762026060750
+entry_point_name: ''
+experiment_id: '296033929115713690'
+lifecycle_stage: active
+run_id: 4709ead595934cd98c2efcdc7a29c539
+run_name: fearless-dove-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026060505
+status: 3
+tags: []
+user_id: shaik

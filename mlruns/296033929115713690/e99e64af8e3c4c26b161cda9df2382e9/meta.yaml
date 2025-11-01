@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/296033929115713690/e99e64af8e3c4c26b161cda9df2382e9/artifacts
+end_time: 1762026069287
+entry_point_name: ''
+experiment_id: '296033929115713690'
+lifecycle_stage: active
+run_id: e99e64af8e3c4c26b161cda9df2382e9
+run_name: big-deer-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026052885
+status: 3
+tags: []
+user_id: shaik

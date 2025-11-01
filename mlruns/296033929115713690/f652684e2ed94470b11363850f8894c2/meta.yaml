@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/296033929115713690/f652684e2ed94470b11363850f8894c2/artifacts
+end_time: 1762026061291
+entry_point_name: ''
+experiment_id: '296033929115713690'
+lifecycle_stage: active
+run_id: f652684e2ed94470b11363850f8894c2
+run_name: calm-crab-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026061040
+status: 3
+tags: []
+user_id: shaik

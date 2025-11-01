@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/296033929115713690/a6c7f4fba00d406c8094f13bb8973e0a/artifacts
+end_time: 1762026062368
+entry_point_name: ''
+experiment_id: '296033929115713690'
+lifecycle_stage: active
+run_id: a6c7f4fba00d406c8094f13bb8973e0a
+run_name: redolent-gull-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026062293
+status: 3
+tags: []
+user_id: shaik

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/296033929115713690/c62c15433c944657b3d32ad74d3fffb8/artifacts
+end_time: 1762026062733
+entry_point_name: ''
+experiment_id: '296033929115713690'
+lifecycle_stage: active
+run_id: c62c15433c944657b3d32ad74d3fffb8
+run_name: abrasive-snake-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026062658
+status: 3
+tags: []
+user_id: shaik

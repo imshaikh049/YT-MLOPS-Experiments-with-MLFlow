@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaik/Desktop/ML%20Ops%20Practice/YT-MLOPS-Experiments-with-MLFlow/mlruns/296033929115713690/d628f5f6f4994f42aa0d15b51f07e89c/artifacts
+end_time: 1762026062653
+entry_point_name: ''
+experiment_id: '296033929115713690'
+lifecycle_stage: active
+run_id: d628f5f6f4994f42aa0d15b51f07e89c
+run_name: silent-mink-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026062568
+status: 3
+tags: []
+user_id: shaik

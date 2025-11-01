@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/976335568368400692/9f81baffd6de4a17a5f8f7ae0f2c7b9e/artifacts
+deleted_time: 1762027579247
 end_time: 1762020730757
 entry_point_name: ''
 experiment_id: '976335568368400692'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9f81baffd6de4a17a5f8f7ae0f2c7b9e
 run_name: whimsical-finch-208
 source_name: ''
